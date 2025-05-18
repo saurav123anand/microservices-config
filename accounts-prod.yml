@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to PhoenixBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@phoenixbank.com"
+    email: "{cipher}d09b2a47bc472ab617a0aceb32f12ba6736239e80c79fb68e8145aae6775a680ca037bd1cb8fd34faa3b338fda54421b"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
